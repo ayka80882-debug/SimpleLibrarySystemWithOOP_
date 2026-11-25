@@ -38,17 +38,3 @@ pageCount: {self.pageCount}
             print("\nThis book is already in the library.")
 
 
-# book1 = Book(1, "Clean Code", "Robert Martin", 464)
-# book2 = Book(2, "Python Crash Course", "Eric Matthes", 560)
-# book3 = Book(3, "Atomis Habits", "James Clear", 320)
-
-
-# for i in book1, book2, book3:
-#     i.showInfo()
-
-
-# book1.showInfo()
-# book1.borrow()
-# book1.showInfo()
-# book1.returnBook()
-# book1.showInfo()
